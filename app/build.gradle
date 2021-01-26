@@ -6,7 +6,7 @@ apply plugin: 'kotlin-kapt'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.mythio.retrofitsample"
+        applicationId "com.mythio.sslpinning"
         minSdkVersion 24
         targetSdkVersion 28
         versionCode 1

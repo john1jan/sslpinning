@@ -1,4 +1,4 @@
-package com.mythio.retrofitsample.network
+package com.john1jan.sslpinning.network
 
 import retrofit2.Call
 import retrofit2.Retrofit

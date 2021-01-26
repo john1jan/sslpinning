@@ -1,11 +1,11 @@
-package com.mythio.retrofitsample.main
+package com.john1jan.sslpinning.main
 
 import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.mythio.retrofitsample.network.GithubApi
-import com.mythio.retrofitsample.network.GithubUser
+import com.john1jan.sslpinning.network.GithubApi
+import com.john1jan.sslpinning.network.GithubUser
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

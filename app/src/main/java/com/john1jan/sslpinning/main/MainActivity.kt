@@ -1,12 +1,12 @@
-package com.mythio.retrofitsample.main
+package com.john1jan.sslpinning.main
 
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.ViewModelProviders
-import com.mythio.retrofitsample.R
-import com.mythio.retrofitsample.databinding.ActivityMainBinding
+import com.john1jan.sslpinning.R
+import com.john1jan.sslpinning.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 

@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Kotlin-Retrofit.iml" filepath="$PROJECT_DIR$/Kotlin-Retrofit.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Kotlin-Retrofit-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Kotlin-Retrofit-app.iml" group="Kotlin-Retrofit/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SSLPinning.iml" filepath="$PROJECT_DIR$/.idea/modules/SSLPinning.iml" group="SSLPinning" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SSLPinning-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SSLPinning-app.iml" group="SSLPinning/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/samples-Kotlin-Retrofit.iml" filepath="$PROJECT_DIR$/.idea/modules/samples-Kotlin-Retrofit.iml" group="Kotlin-Retrofit" />
     </modules>
   </component>
 </project>
