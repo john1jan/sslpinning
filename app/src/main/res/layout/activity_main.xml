@@ -7,7 +7,7 @@
 
         <variable
                 name="viewModel"
-                type="com.mythio.retrofitsample.main.MainViewModel"/>
+                type="com.john1jan.sslpinning.main.MainViewModel"/>
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout

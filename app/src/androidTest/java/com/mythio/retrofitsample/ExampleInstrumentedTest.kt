@@ -1,4 +1,4 @@
-package com.mythio.retrofitsample
+package com.john1jan.sslpinning
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
@@ -17,6 +17,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.mythio.retrofitsample", appContext.packageName)
+        assertEquals("com.john1jan.sslpinning", appContext.packageName)
     }
 }

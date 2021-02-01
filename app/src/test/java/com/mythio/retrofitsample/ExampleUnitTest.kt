@@ -1,4 +1,4 @@
-package com.mythio.retrofitsample
+package com.john1jan.sslpinning
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

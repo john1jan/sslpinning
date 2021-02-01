@@ -1,4 +1,4 @@
-package com.mythio.retrofitsample
+package com.john1jan.sslpinning
 
 import android.widget.ImageView
 import androidx.databinding.BindingAdapter
